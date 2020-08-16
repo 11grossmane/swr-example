@@ -1,0 +1,79 @@
+{
+  "animals": [
+    {
+      "id": 1,
+      "name": "Donkey",
+      "powerLevel": "3"
+    },
+    {
+      "id": 2,
+      "name": "Boa",
+      "powerLevel": 3
+    },
+    {
+      "name": "Lynx",
+      "powerLevel": 9,
+      "id": 3
+    },
+    {
+      "name": "Lynx",
+      "powerLevel": 9,
+      "id": 4
+    },
+    {
+      "name": "Lynx",
+      "powerLevel": 9,
+      "id": 5
+    },
+    {
+      "name": "Lynx",
+      "powerLevel": 9,
+      "id": 6
+    },
+    {
+      "name": "Lynx",
+      "powerLevel": 9,
+      "id": 7
+    },
+    {
+      "name": "Lynx",
+      "powerLevel": 9,
+      "id": 8
+    },
+    {
+      "name": "Lynx",
+      "powerLevel": 9,
+      "id": 9
+    },
+    {
+      "name": "Lynx",
+      "powerLevel": 9,
+      "id": 10
+    },
+    {
+      "name": "Lynx",
+      "powerLevel": 9,
+      "id": 11
+    },
+    {
+      "name": "Lynx",
+      "powerLevel": 9,
+      "id": 12
+    },
+    {
+      "name": "Lynx",
+      "powerLevel": 9,
+      "id": 13
+    },
+    {
+      "name": "Lynx",
+      "powerLevel": 9,
+      "id": 14
+    },
+    {
+      "name": "Lynx",
+      "powerLevel": 9,
+      "id": 15
+    }
+  ]
+}
